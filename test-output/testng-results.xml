@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-19T15:53:34 IST" name="Suite" finished-at="2022-06-19T15:53:34 IST" duration-ms="155">
+    <groups>
+      <group name="Regrassion">
+        <method signature="GroupingEx1.umtest2()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest2" class="org.TestNGEx3.GroupingEx1"/>
+        <method signature="GroupingEx1.umtest5()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest5" class="org.TestNGEx3.GroupingEx1"/>
+        <method signature="GroupingEx1.umtest6()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest6" class="org.TestNGEx3.GroupingEx1"/>
+      </group> <!-- Regrassion -->
+      <group name="UTA">
+        <method signature="GroupingEx1.umtest6()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest6" class="org.TestNGEx3.GroupingEx1"/>
+      </group> <!-- UTA -->
+      <group name="somke">
+        <method signature="GroupingEx1.umtest1()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest1" class="org.TestNGEx3.GroupingEx1"/>
+        <method signature="GroupingEx1.umtest5()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest5" class="org.TestNGEx3.GroupingEx1"/>
+        <method signature="GroupingEx1.umtest7()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest7" class="org.TestNGEx3.GroupingEx1"/>
+      </group> <!-- somke -->
+      <group name="UAT">
+        <method signature="GroupingEx1.umtest3()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest3" class="org.TestNGEx3.GroupingEx1"/>
+        <method signature="GroupingEx1.umtest7()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" name="umtest7" class="org.TestNGEx3.GroupingEx1"/>
+      </group> <!-- UAT -->
+    </groups>
+    <test started-at="2022-06-19T15:53:34 IST" name="Test" finished-at="2022-06-19T15:53:34 IST" duration-ms="155">
+      <class name="org.TestNGEx3.GroupingEx1">
+        <test-method signature="umtest1()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" started-at="2022-06-19T15:53:34 IST" name="umtest1" finished-at="2022-06-19T15:53:34 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umtest1 -->
+        <test-method signature="umtest2()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" started-at="2022-06-19T15:53:34 IST" name="umtest2" finished-at="2022-06-19T15:53:34 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umtest2 -->
+        <test-method signature="umtest3()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" started-at="2022-06-19T15:53:34 IST" name="umtest3" finished-at="2022-06-19T15:53:34 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umtest3 -->
+        <test-method signature="umtest5()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" started-at="2022-06-19T15:53:34 IST" name="umtest5" finished-at="2022-06-19T15:53:34 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umtest5 -->
+        <test-method signature="umtest6()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" started-at="2022-06-19T15:53:34 IST" name="umtest6" finished-at="2022-06-19T15:53:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umtest6 -->
+        <test-method signature="umtest7()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" started-at="2022-06-19T15:53:34 IST" name="umtest7" finished-at="2022-06-19T15:53:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umtest7 -->
+        <test-method signature="umtest8()[pri:0, instance:org.TestNGEx3.GroupingEx1@61df66b6]" started-at="2022-06-19T15:53:34 IST" name="umtest8" finished-at="2022-06-19T15:53:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umtest8 -->
+      </class> <!-- org.TestNGEx3.GroupingEx1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
